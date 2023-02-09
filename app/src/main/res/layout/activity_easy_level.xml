@@ -154,8 +154,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginBottom="15dp"
         android:layout_marginEnd="15dp"
-        app:srcCompat="@drawable/outline_emoji_objects_24"
-        app:tint="@color/brown_red" />
+        app:srcCompat="@drawable/outline_emoji_objects_24" />
 
     <nl.dionsegijn.konfetti.xml.KonfettiView
         android:id="@+id/konfettiView"

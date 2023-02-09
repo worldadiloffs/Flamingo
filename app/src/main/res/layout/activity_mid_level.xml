@@ -73,8 +73,7 @@
         android:layout_marginBottom="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/outline_emoji_objects_24"
-        app:tint="@color/brown_red" />
+        app:srcCompat="@drawable/outline_emoji_objects_24"/>
 
     <TextView
         android:id="@+id/answerA"
